@@ -1,0 +1,253 @@
+.stackContent{
+  margin:0 0px;
+  padding:0 6px;
+}
+
+body{
+  text-align:center;
+  font-family: 'メイリオ',meiryo,sans-serif,'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3',osaka,'ＭＳ Ｐゴシック';
+  background-image:url("/images/haikei.png");
+  background-color:#fdfdfd;
+  background-position:top left;
+  background-repeat:repeat-x;
+  margin:0;padding:0;
+}
+
+a, a:link, a:visited {
+  color:#daa520;
+}
+
+a:hover {
+    color:#ff0000;
+}
+
+p{
+  line-height:170%;
+}
+
+div#wrapper{
+  width:1000px;
+  text-align:left;
+  margin:0 auto;padding:0;
+}
+div#header{
+  margin:0 0 7px 0;
+}
+
+div#header_1 img{
+  border:0;
+}
+
+h1{
+  color:#000000;
+  margin:10px 0;
+  padding:10px 3px;
+  font-size:28px;
+  border-bottom:3px solid #fafafa;
+}
+
+div#header_2 p{
+  font-size:1.1em;
+  margin:12px 0 0 0;
+  padding:0px 0;
+}
+
+div#tweet_button{
+  text-align:right;
+}
+
+div#content{
+  background-color:white;
+  border:1px solid #f3f3f3;
+  margin:0 8px 0 0;
+  padding:10px 0;
+}
+
+div#content h2{
+    font-size:16px;
+  margin:18px 0 2px 0;
+  padding:7px;
+  border-left:6px solid #f4a460;
+}
+
+div#content h3{
+  color:#cc6600;
+  font-size:14px;
+  margin:2px;
+  padding:3px;
+}
+
+div#content p{
+  color:#222;
+  font-size:14px;
+  margin:1px 10px 1px 15px;
+  padding:1px;
+} 
+
+div#content ul#news{
+  margin:5px 20px 5px 20px;
+  padding:1px;
+}
+
+div#content ul#news li{
+  color:#222;
+  font-size:14px;
+  margin:5px;
+  padding:1px;
+  border-bottom:1px dotted #daa520;
+  list-style:none;
+}
+
+div#content ul#news li a{
+  text-decoration:none;
+}
+
+
+div#content ol li,div#content ul li{
+  color:#222;
+  font-size:14px;
+  margin:2px;
+  padding:1px;
+}
+
+div#content span{
+  color:#ff69b4;
+}
+
+div#content img{
+  border:0px solid #efefef;
+  margin:0 0 0 2px;
+  padding:5px;
+}
+
+div#content .fb-like-box{
+  border:0px solid #efefef;
+  margin:0 0 0 2px;
+  padding:5px;
+}
+
+div#content_list{
+  margin:5px 0 10px 5px;
+  font-size:12px;
+}
+
+div#recipes{
+
+}
+
+div#recipe_photo img{
+  border:1px solid #ddd;
+  padding:5px;
+}
+
+div#recipe_photo p{
+  font-size:9px;
+  text-align:right;
+}
+
+div.recipe_border{
+  border:1px solid #f2f2f2;
+  padding:2px;
+}
+
+div.clear_div{
+  clear:both;
+}
+
+div#sidebar_1 h2,div#sidebar_2 h2{
+  color:#333;
+  font-size:16px;
+  margin:12px 3px;
+  padding:0;
+  border-bottom:1px dotted #febe25;
+  clear:both;
+}
+
+div#sidebar_1 h3,div#sidebar_2 h3{
+  color:#8b4513;
+  font-size:12px;
+  margin:5px 0;
+  padding:0;
+}
+
+div#sidebar_1{
+  font-size:12px;
+}
+
+div#sidebar_1 img{
+  border:0;
+}
+
+span.connect_widget_not_connected_text{
+  font-size:7px;
+}
+
+div#twitter{
+  margin-top:10px;
+  font-size:10px;
+}
+
+div#sidebar_2{
+  
+}
+
+div#sidebar_2 img{
+  border:0;
+}
+
+div.side_list{
+  margin:5px 8px;
+}
+
+
+div.side_list img{
+  float:left;
+  padding:0 5px 5px 0;
+}
+
+div.side_list ul{
+  margin:0px;
+  padding:0;
+}
+
+div.side_list li{
+  margin:0 0 0 5px;
+  padding:0;
+  font-size:13px;
+  list-style:none;
+  background:url("/images/li.gif") left top no-repeat;
+  text-indent:22px;
+  line-height:150%;
+}
+
+div.side_list p{
+  font-size:13px;
+}
+
+div.side_list p.list_para{
+  margin:2px; padding:1px;
+  text-align:right;
+}
+
+div.product{
+  clear:left;
+}
+
+div.product p{
+  margin:0;
+  padding:0;
+}
+
+div#footer_wrap{
+  width:100%;
+  margin:20px 0 0 0;
+  padding:10px 0;
+  border-top:5px solid #daa520;
+  font-size:12px;
+  color:#fff;
+  background-color:#666;
+}
+
+div#footer{
+  width:1000px;
+}

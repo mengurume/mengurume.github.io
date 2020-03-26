@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://www.mengurume.co.jp/</id>
   <title>株式会社　中隆</title>
-  <updated>2018-06-28T15:00:00Z</updated>
+  <updated>2020-03-25T15:00:00Z</updated>
   <link rel="alternate" href="http://www.mengurume.co.jp/"/>
   <link rel="self" href="http://www.mengurume.co.jp/feed.xml"/>
   <author>
@@ -11,58 +11,58 @@
     <uri>http://www.mengurume.co.jp/</uri>
   </author>
   <entry>
-    <id>tag:www.mengurume.co.jp,2018-06-29:/news/20180629bazaar/</id>
-    <title type="html">6月(下旬)の「めんぐるめバザー」開催をお知らせします</title>
-    <published>2018-06-28T15:00:00Z</published>
-    <updated>2018-06-28T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20180629bazaar/"/>
-    <content type="html">
-&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20180602/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:www.mengurume.co.jp,2018-05-11:/news/20180511bazaar/</id>
-    <title type="html">5月(上旬)の「めんぐるめバザー」開催をお知らせします</title>
-    <published>2018-05-10T15:00:00Z</published>
-    <updated>2018-05-10T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20180511bazaar/"/>
-    <content type="html">
-&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20180501/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:www.mengurume.co.jp,2018-04-26:/news/20180426bazaar/</id>
-    <title type="html">4月(下旬)の「めんぐるめバザー」開催をお知らせします</title>
-    <published>2018-04-25T15:00:00Z</published>
-    <updated>2018-04-25T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20180426bazaar/"/>
-    <content type="html">
-&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20180402/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:www.mengurume.co.jp,2018-04-13:/news/20180413bazaar/</id>
-    <title type="html">4月(上旬)の「めんぐるめバザー」開催をお知らせします</title>
-    <published>2018-04-12T15:00:00Z</published>
-    <updated>2018-04-12T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20180413bazaar/"/>
-    <content type="html">
-&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20180401/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:www.mengurume.co.jp,2018-03-28:/news/20180328bazaar/</id>
+    <id>tag:www.mengurume.co.jp,2020-03-26:/news/20200326bazaar/</id>
     <title type="html">3月(下旬)の「めんぐるめバザー」開催をお知らせします</title>
-    <published>2018-03-27T15:00:00Z</published>
-    <updated>2018-03-27T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20180328bazaar/"/>
+    <published>2020-03-25T15:00:00Z</published>
+    <updated>2020-03-25T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200326bazaar/"/>
     <content type="html">
 &lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20180302/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20200302/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:www.mengurume.co.jp,2020-02-25:/news/20200225bazaar/</id>
+    <title type="html">2月(下旬)の「めんぐるめバザー」開催をお知らせします</title>
+    <published>2020-02-24T15:00:00Z</published>
+    <updated>2020-02-24T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200225bazaar/"/>
+    <content type="html">
+&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20200202/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:www.mengurume.co.jp,2020-02-07:/news/20200207bazaar/</id>
+    <title type="html">2月(上旬)の「めんぐるめバザー」開催をお知らせします</title>
+    <published>2020-02-06T15:00:00Z</published>
+    <updated>2020-02-06T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200207bazaar/"/>
+    <content type="html">
+&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20200201/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:www.mengurume.co.jp,2019-12-13:/news/20191213bazaar/</id>
+    <title type="html">12月(上旬)の「めんぐるめバザー」開催をお知らせします</title>
+    <published>2019-12-12T15:00:00Z</published>
+    <updated>2019-12-12T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20191213bazaar/"/>
+    <content type="html">
+&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20191201/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:www.mengurume.co.jp,2019-11-21:/news/20191129bazaar/</id>
+    <title type="html">11月(下旬)の「めんぐるめバザー」開催をお知らせします</title>
+    <published>2019-11-20T15:00:00Z</published>
+    <updated>2019-11-20T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20191129bazaar/"/>
+    <content type="html">
+&lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20191102/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

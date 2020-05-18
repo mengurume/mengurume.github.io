@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://www.mengurume.co.jp/</id>
   <title>株式会社　中隆</title>
-  <updated>2020-04-22T15:00:00Z</updated>
+  <updated>2020-05-17T15:00:00Z</updated>
   <link rel="alternate" href="http://www.mengurume.co.jp/"/>
   <link rel="self" href="http://www.mengurume.co.jp/feed.xml"/>
   <author>
@@ -11,25 +11,25 @@
     <uri>http://www.mengurume.co.jp/</uri>
   </author>
   <entry>
-    <id>tag:www.mengurume.co.jp,2020-04-23:/news/20200428bazaar/</id>
-    <title type="html">4月(下旬)の「めんぐるめバザー」小規模開催のお知らせ</title>
-    <published>2020-04-22T15:00:00Z</published>
-    <updated>2020-04-22T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200428bazaar/"/>
+    <id>tag:www.mengurume.co.jp,2020-05-18:/news/20200518bazaar/</id>
+    <title type="html">5月(上旬)の「めんぐるめバザー」小規模開催のお知らせ</title>
+    <published>2020-05-17T15:00:00Z</published>
+    <updated>2020-05-17T15:00:00Z</updated>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200518bazaar/"/>
     <content type="html">
 
 &lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="/special/bazaar_20200402/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/special/bazaar_20200501/"&gt;△めんぐるめバザーの詳細&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;尚、通常のバザーと違い、新型コロナウイルスへの対応をお客様に御願いをしております。ご協力の程、よろしくお願い致します。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <id>tag:www.mengurume.co.jp,2020-04-23:/news/20200518bazaar/</id>
+    <id>tag:www.mengurume.co.jp,2020-04-23:/news/20200428bazaar/</id>
     <title type="html">4月(下旬)の「めんぐるめバザー」小規模開催のお知らせ</title>
     <published>2020-04-22T15:00:00Z</published>
     <updated>2020-04-22T15:00:00Z</updated>
-    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200518bazaar/"/>
+    <link rel="alternate" href="http://www.mengurume.co.jp/news/20200428bazaar/"/>
     <content type="html">
 
 &lt;p&gt;　詳しくは次のページ掲載のチラシをご覧ください。&lt;/p&gt;
